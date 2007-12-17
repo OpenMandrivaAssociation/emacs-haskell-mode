@@ -12,7 +12,6 @@ License: GPL
 Group: Development/Other
 BuildArch: noarch
 Url: http://haskell.org/haskell-mode/
-BuildRoot: %{_tmppath}/%{name}-%{version}-%{release}-buildroot
 
 %description
 Haskell Mode for Emacs
