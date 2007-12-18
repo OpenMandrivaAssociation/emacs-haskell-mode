@@ -11,6 +11,7 @@ Source0: http://www.iro.umontreal.ca/~monnier/elisp/haskell-mode-2.1.tar.bz2
 License: GPL
 Group: Development/Other
 BuildArch: noarch
+BuildRequires: emacs
 Url: http://haskell.org/haskell-mode/
 
 %description
