@@ -13,6 +13,7 @@ Group: Development/Other
 BuildArch: noarch
 BuildRequires: emacs
 Url: http://haskell.org/haskell-mode/
+BuildRoot: %{_tmppath}/%{name}-%{version}-%{release}-buildroot
 
 %description
 Haskell Mode for Emacs
