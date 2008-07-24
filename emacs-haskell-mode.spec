@@ -1,7 +1,7 @@
 %define rname haskell-mode
 %define name emacs-haskell-mode
 %define version 2.1
-%define release %mkrel 2
+%define release %mkrel 4
 
 Summary: Major mode for editing Haskell code with emacs
 Name: %{name}
