@@ -49,3 +49,33 @@ rm -rf $RPM_BUILD_ROOT
 %_datadir/*/site-lisp/*
 
 
+
+
+%changelog
+* Thu Dec 09 2010 Oden Eriksson <oeriksson@mandriva.com> 2.1-6mdv2011.0
++ Revision: 618050
+- the mass rebuild of 2010.0 packages
+
+* Thu Sep 03 2009 Thierry Vignaud <tv@mandriva.org> 2.1-5mdv2010.0
++ Revision: 428559
+- rebuild
+
+* Thu Jul 24 2008 Thierry Vignaud <tv@mandriva.org> 2.1-4mdv2009.0
++ Revision: 244701
+- rebuild
+
+  + Olivier Blin <oblin@mandriva.com>
+    - restore BuildRoot
+
+* Tue Dec 18 2007 Thierry Vignaud <tv@mandriva.org> 2.1-2mdv2008.1
++ Revision: 132849
+- BR emacs
+- kill re-definition of %%buildroot on Pixel's request
+- import emacs-haskell-mode
+
+
+* Mon Dec  5 2005 Pixel <pixel@mandriva.com> 2.1-2mdk
+- fix loading
+
+* Mon Nov 28 2005 Pixel <pixel@mandriva.com> 2.1-1mdk
+- first package
