@@ -5,9 +5,9 @@
 
 Summary: Major mode for editing Haskell code with emacs
 Name: %{name}
-Version: %{version}
-Release: %{release}
-Source0: http://www.iro.umontreal.ca/~monnier/elisp/haskell-mode-2.1.tar.bz2
+Version: 2.4
+Release: 1
+Source0: http://www.iro.umontreal.ca/~monnier/elisp/haskell-mode-%{version}.tar.gz
 License: GPL
 Group: Development/Other
 BuildArch: noarch
@@ -79,3 +79,4 @@ rm -rf $RPM_BUILD_ROOT
 
 * Mon Nov 28 2005 Pixel <pixel@mandriva.com> 2.1-1mdk
 - first package
+
