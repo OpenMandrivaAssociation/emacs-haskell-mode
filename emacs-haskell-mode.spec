@@ -3,7 +3,7 @@
 Summary: Major mode for editing Haskell code with emacs
 Name:    emacs-haskell-mode
 Version: 2.4
-Release: 1
+Release: 2
 Source0: http://www.iro.umontreal.ca/~monnier/elisp/haskell-mode-%{version}.tar.gz
 License: GPL
 Group: Development/Other
