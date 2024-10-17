@@ -9,7 +9,7 @@ License: GPL
 Group: Development/Other
 BuildArch: noarch
 BuildRequires: emacs
-Url: http://haskell.org/haskell-mode/
+Url: https://haskell.org/haskell-mode/
 
 %description
 Haskell Mode for Emacs
