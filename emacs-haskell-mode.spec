@@ -8,6 +8,7 @@ Source0: http://www.iro.umontreal.ca/~monnier/elisp/haskell-mode-%{version}.tar.
 License: GPL
 Group: Development/Other
 BuildArch: noarch
+BuildRequires:	make
 BuildRequires: emacs
 Url: https://haskell.org/haskell-mode/
 
